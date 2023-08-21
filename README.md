@@ -1,5 +1,23 @@
 # reldft.github.io
 Personal portfolio, another one
+<!-- Primary Meta Tags -->
+<title>RELDFT Personal Portfolio</title>
+<meta name="title" content="RELDFT Personal Portfolio" />
+<meta name="description" content="Yogesh Chauhan portfolio" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://RELDFT.github.io/" />
+<meta property="og:title" content="RELDFT Personal Portfolio" />
+<meta property="og:description" content="Yogesh Chauhan portfolio" />
+<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://RELDFT.github.io/" />
+<meta property="twitter:title" content="RELDFT Personal Portfolio" />
+<meta property="twitter:description" content="Yogesh Chauhan portfolio" />
+<meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
 
 <h1 align="center">Hi 👋, I'm Yogesh Chauhan</h1>
 <h3 align="center">A passionate data analyst from India.</h3>
